@@ -12,7 +12,7 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 
-  font-family: sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 *, *::before, *::after {
@@ -32,10 +32,22 @@ body {
   background-color: #e97065;
 }
 
+.water-head {
+  font-family: "Rammetto One", cursive;
+}
+
 .starfruit {
   background-color: #fbd25e;
 }
 
+.star-head {
+  font-family: "Gravitas One", cursive;
+}
+
 .persimmon {
   background-color: #e86033;
+}
+
+.pers-head {
+  font-family: Comfortaa, cursive;
 }
